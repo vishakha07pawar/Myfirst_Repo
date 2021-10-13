@@ -1,7 +1,9 @@
 package com.vp.corejava;
 //while loops
 public class Loops {
+
     public static void main(String[] args) {
+
         int x = 10;
         while (x < 15) {
             System.out.println("valid candidate=" + x);
